@@ -47,7 +47,7 @@ namespace CursoCSharp.Colecoes
 
             foreach(var filme in filmes)
             {
-                Console.WriteLine($"{filme.Value} é de {filme.Key}.);
+                Console.WriteLine($"{filme.Value} é de {filme.Key}.");
             }
         }
     }
